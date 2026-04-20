@@ -21,7 +21,7 @@ Aunque `GET /products` es una consulta simple, los tiempos de respuesta se incre
 Ademas, debido al limite de 15 usuarios, las peticiones empiezan a fallar despues de unos segundos.
 
 
-## 05. IA Log
+# Ej 5: IA Log
 
 #### Prompt:
 Dado el caso de uso de Market Place INC de este PDF, crea una aplicacion en FastAPI para representar los problemas de carga del caso de uso.
